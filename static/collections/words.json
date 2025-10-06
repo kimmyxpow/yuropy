@@ -1,0 +1,1094 @@
+[
+  {
+    "word": "ephemeral",
+    "part_of_speech": "adjective",
+    "meaning": "lasting for a very short time",
+    "example": "The beauty of the cherry blossoms is ephemeral, lasting only a few weeks.",
+    "pronunciation": "/ɪˈfemərəl/"
+  },
+  {
+    "word": "serendipity",
+    "part_of_speech": "noun",
+    "meaning": "the occurrence of events by chance in a happy way",
+    "example": "Finding that rare book was pure serendipity; I wasn't even looking for it.",
+    "pronunciation": "/ˌserənˈdɪpɪti/"
+  },
+  {
+    "word": "ubiquitous",
+    "part_of_speech": "adjective",
+    "meaning": "something that seems to be everywhere",
+    "example": "Cell phones are ubiquitous nowadays; everyone has one.",
+    "pronunciation": "/juːˈbɪkwɪtəs/"
+  },
+  {
+    "word": "pragmatic",
+    "part_of_speech": "adjective",
+    "meaning": "dealing with things sensibly and realistically",
+    "example": "We need a pragmatic approach to solve this complex problem.",
+    "pronunciation": "/præɡˈmætɪk/"
+  },
+  {
+    "word": "eloquent",
+    "part_of_speech": "adjective",
+    "meaning": "fluent or persuasive in speaking or writing",
+    "example": "The president gave an eloquent speech that inspired the nation.",
+    "pronunciation": "/ˈeləkwənt/"
+  },
+  {
+    "word": "ambiguous",
+    "part_of_speech": "adjective",
+    "meaning": "open to more than one interpretation; not clear",
+    "example": "The politician's ambiguous statement left everyone wondering what he truly meant.",
+    "pronunciation": "/æmˈbɪɡjuəs/"
+  },
+  {
+    "word": "cacophony",
+    "part_of_speech": "noun",
+    "meaning": "a harsh, discordant mixture of sounds",
+    "example": "The street market was a cacophony of vendors shouting and music playing.",
+    "pronunciation": "/kəˈkɒfəni/"
+  },
+  {
+    "word": "ebullient",
+    "part_of_speech": "adjective",
+    "meaning": "full of energy and excitement",
+    "example": "The ebullient child ran around the playground.",
+    "pronunciation": "/ɪˈbʌljənt/"
+  },
+  {
+    "word": "laconic",
+    "part_of_speech": "adjective",
+    "meaning": "using very few words; concise",
+    "example": "His laconic reply, 'Maybe,' didn't help clarify the situation.",
+    "pronunciation": "/ləˈkɒnɪk/"
+  },
+  {
+    "word": "garrulous",
+    "part_of_speech": "adjective",
+    "meaning": "talking a lot, often about silly things",
+    "example": "The garrulous teacher kept everyone entertained with stories.",
+    "pronunciation": "/ˈɡærələs/"
+  },
+  {
+    "word": "misanthrope",
+    "part_of_speech": "noun",
+    "meaning": "a person who dislikes humankind and avoids human society",
+    "example": "After years of disappointment, he became a misanthrope, living alone in the woods.",
+    "pronunciation": "/ˈmɪsənθroʊp/"
+  },
+  {
+    "word": "aesthete",
+    "part_of_speech": "noun",
+    "meaning": "a person who is appreciative of and sensitive to art and beauty",
+    "example": "As an aesthete, she spent hours in the art museum, admiring every painting.",
+    "pronunciation": "/ˈesθiːt/"
+  },
+  {
+    "word": "dichotomy",
+    "part_of_speech": "noun",
+    "meaning": "a division into two mutually exclusive, opposed groups",
+    "example": "There is often a dichotomy between what people say and what they do.",
+    "pronunciation": "/daɪˈkɒtəmi/"
+  },
+  {
+    "word": "paradigm",
+    "part_of_speech": "noun",
+    "meaning": "a typical example or pattern of something; a model",
+    "example": "The company is a paradigm of success in the tech industry.",
+    "pronunciation": "/ˈpærədaɪm/"
+  },
+  {
+    "word": "procrastinate",
+    "part_of_speech": "verb",
+    "meaning": "to delay or postpone action; put off doing something",
+    "example": "I tend to procrastinate when I have a large and difficult assignment.",
+    "pronunciation": "/prəˈkræstɪneɪt/"
+  },
+  {
+    "word": "euphemism",
+    "part_of_speech": "noun",
+    "meaning": "a mild or indirect word substituted for one considered to be too harsh",
+    "example": "Using 'passed away' is a common euphemism for 'died'.",
+    "pronunciation": "/ˈjuːfəmɪzəm/"
+  },
+  {
+    "word": "oxymoron",
+    "part_of_speech": "noun",
+    "meaning": "a figure of speech in which contradictory terms appear together",
+    "example": "The phrase 'deafening silence' is a classic example of an oxymoron.",
+    "pronunciation": "/ˌɒksɪˈmɔːrɒn/"
+  },
+  {
+    "word": "resilient",
+    "part_of_speech": "adjective",
+    "meaning": "able to recover quickly from difficulties; tough",
+    "example": "Children are often more resilient than adults think.",
+    "pronunciation": "/rɪˈzɪliənt/"
+  },
+  {
+    "word": "gregarious",
+    "part_of_speech": "adjective",
+    "meaning": "fond of company; sociable",
+    "example": "He's a gregarious person who loves parties and social gatherings.",
+    "pronunciation": "/ɡrɪˈɡeəriəs/"
+  },
+  {
+    "word": "erudite",
+    "part_of_speech": "adjective",
+    "meaning": "having or showing great knowledge or learning",
+    "example": "The erudite professor could speak for hours on ancient history.",
+    "pronunciation": "/ˈerʊdaɪt/"
+  },
+  {
+    "word": "introspective",
+    "part_of_speech": "adjective",
+    "meaning": "examining one's own thoughts and feelings",
+    "example": "After the trip, she became more introspective about her life choices.",
+    "pronunciation": "/ˌɪntrəˈspektɪv/"
+  },
+  {
+    "word": "altruistic",
+    "part_of_speech": "adjective",
+    "meaning": "showing a disinterested and selfless concern for others",
+    "example": "Her altruistic decision to donate her savings helped many families.",
+    "pronunciation": "/ˌæltruˈɪstɪk/"
+  },
+  {
+    "word": "narcissistic",
+    "part_of_speech": "adjective",
+    "meaning": "having an excessive interest in oneself; selfish",
+    "example": "His narcissistic behavior made it difficult for him to maintain relationships.",
+    "pronunciation": "/ˌnɑːrsɪˈsɪstɪk/"
+  },
+  {
+    "word": "ambivalent",
+    "part_of_speech": "adjective",
+    "meaning": "having mixed feelings or contradictory ideas about something",
+    "example": "She felt ambivalent about moving to a new city for the job.",
+    "pronunciation": "/æmˈbɪvələnt/"
+  },
+  {
+    "word": "stoic",
+    "part_of_speech": "adjective",
+    "meaning": "enduring pain or hardship without showing feelings",
+    "example": "He remained stoic throughout the entire difficult situation.",
+    "pronunciation": "/ˈstoʊɪk/"
+  },
+  {
+    "word": "melancholy",
+    "part_of_speech": "noun",
+    "meaning": "a feeling of sadness",
+    "example": "A sense of melancholy came over her after hearing the news.",
+    "pronunciation": "/ˈmɛlənkəli/"
+  },
+  {
+    "word": "surreptitious",
+    "part_of_speech": "adjective",
+    "meaning": "kept secret, especially because improper",
+    "example": "He took a surreptitious glance at his phone during the meeting.",
+    "pronunciation": "/ˌsʌrəpˈtɪʃəs/"
+  },
+  {
+    "word": "perfunctory",
+    "part_of_speech": "adjective",
+    "meaning": "done quickly without care or real interest",
+    "example": "He gave a perfunctory nod and walked away.",
+    "pronunciation": "/pərˈfʌŋktəri/"
+  },
+  {
+    "word": "vicarious",
+    "part_of_speech": "adjective",
+    "meaning": "experienced in the imagination through the feelings of another",
+    "example": "Parents often get vicarious pleasure from their children's successes.",
+    "pronunciation": "/vɪˈkeəriəs/"
+  },
+  {
+    "word": "jaded",
+    "part_of_speech": "adjective",
+    "meaning": "tired, bored, or lacking enthusiasm, typically after having too much of something",
+    "example": "After years of travel, he became jaded and no longer found excitement in new places.",
+    "pronunciation": "/ˈdʒeɪdɪd/"
+  },
+  {
+    "word": "cynical",
+    "part_of_speech": "adjective",
+    "meaning": "believing that people are motivated by self-interest; distrustful",
+    "example": "He has a cynical view of politics, believing all politicians are corrupt.",
+    "pronunciation": "/ˈsɪnɪkl/"
+  },
+  {
+    "word": "didactic",
+    "part_of_speech": "adjective",
+    "meaning": "intended to teach; morally instructive",
+    "example": "The movie was too didactic, with its characters constantly lecturing the audience.",
+    "pronunciation": "/daɪˈdæktɪk/"
+  },
+  {
+    "word": "esoteric",
+    "part_of_speech": "adjective",
+    "meaning": "intended for or likely to be understood by only a small number of people",
+    "example": "He was having an esoteric conversation about quantum physics.",
+    "pronunciation": "/ˌesəˈterɪk/"
+  },
+  {
+    "word": "pedantic",
+    "part_of_speech": "adjective",
+    "meaning": "overly concerned with minor details or rules",
+    "example": "His pedantic corrections of everyone's grammar were annoying.",
+    "pronunciation": "/pɪˈdæntɪk/"
+  },
+  {
+    "word": "magnanimous",
+    "part_of_speech": "adjective",
+    "meaning": "generous in forgiving",
+    "example": "The magnanimous winner praised his opponent's skill.",
+    "pronunciation": "/mæɡˈnænɪməs/"
+  },
+  {
+    "word": "elucidate",
+    "part_of_speech": "verb",
+    "meaning": "to make something clear; explain",
+    "example": "Could you please elucidate your theory for us?",
+    "pronunciation": "/ɪˈluːsɪdeɪt/"
+  },
+  {
+    "word": "exacerbate",
+    "part_of_speech": "verb",
+    "meaning": "to make a problem, bad situation, or negative feeling worse",
+    "example": "His harsh words only served to exacerbate the tense situation.",
+    "pronunciation": "/ɪɡˈzæsərbeɪt/"
+  },
+  {
+    "word": "vilify",
+    "part_of_speech": "verb",
+    "meaning": "to speak or write about in an abusively disparaging way",
+    "example": "The media tends to vilify people without knowing the full story.",
+    "pronunciation": "/ˈvɪlɪfaɪ/"
+  },
+  {
+    "word": "prevaricate",
+    "part_of_speech": "verb",
+    "meaning": "to speak or act in an evasive way; to lie or mislead",
+    "example": "When asked about his involvement, he began to prevaricate.",
+    "pronunciation": "/prɪˈværɪkeɪt/"
+  },
+  {
+    "word": "intransigent",
+    "part_of_speech": "adjective",
+    "meaning": "unwilling to change one's views or agree about something",
+    "example": "The intransigent negotiators refused to compromise.",
+    "pronunciation": "/ɪnˈtrænzɪdʒənt/"
+  },
+  {
+    "word": "benevolent",
+    "part_of_speech": "adjective",
+    "meaning": "well-meaning and kindly",
+    "example": "The benevolent ruler was loved by his people.",
+    "pronunciation": "/bəˈnevələnt/"
+  },
+  {
+    "word": "scrupulous",
+    "part_of_speech": "adjective",
+    "meaning": "diligent, thorough, and extremely attentive to detail; very concerned to avoid doing wrong",
+    "example": "She is scrupulous in her research, checking every source twice.",
+    "pronunciation": "/ˈskruːpjələs/"
+  },
+  {
+    "word": "zeitgeist",
+    "part_of_speech": "noun",
+    "meaning": "the defining spirit or mood of a particular period of history",
+    "example": "The movie perfectly captured the zeitgeist of the 1960s.",
+    "pronunciation": "/ˈzaɪtɡaɪst/"
+  },
+  {
+    "word": "schadenfreude",
+    "part_of_speech": "noun",
+    "meaning": "pleasure derived from another person's misfortune",
+    "example": "He couldn't hide his schadenfreude when his rival failed the exam.",
+    "pronunciation": "/ˈʃɑːdənfrɔɪdə/"
+  },
+  {
+    "word": "labyrinthine",
+    "part_of_speech": "adjective",
+    "meaning": "intricate and confusing",
+    "example": "We wandered through the labyrinthine streets of the old city.",
+    "pronunciation": "/ˌlæbəˈrɪnθaɪn/"
+  },
+  {
+    "word": "sonorous",
+    "part_of_speech": "adjective",
+    "meaning": "having a deep, full, reverberating sound",
+    "example": "The actor had a rich, sonorous voice that filled the theater.",
+    "pronunciation": "/səˈnɔːrəs/"
+  },
+  {
+    "word": "petrichor",
+    "part_of_speech": "noun",
+    "meaning": "the nice smell that comes after rain",
+    "example": "I love the petrichor in the garden after a shower.",
+    "pronunciation": "/ˈpɛtrɪkɔːr/"
+  },
+  {
+    "word": "iridescent",
+    "part_of_speech": "adjective",
+    "meaning": "showing luminous colors that seem to change when seen from different angles",
+    "example": "The peacock's feathers had an iridescent sheen.",
+    "pronunciation": "/ˌɪrɪˈdesnt/"
+  },
+  {
+    "word": "eviscerate",
+    "part_of_speech": "verb",
+    "meaning": "to criticize someone or something in a severe and powerful way",
+    "example": "The critic's review eviscerated the new play.",
+    "pronunciation": "/ɪˈvɪsəreɪt/"
+  },
+  {
+    "word": "obfuscate",
+    "part_of_speech": "verb",
+    "meaning": "to make something confusing on purpose",
+    "example": "The instructions only obfuscated the task further.",
+    "pronunciation": "/ˈɒbfəskeɪt/"
+  },
+  {
+    "word": "perspicacious",
+    "part_of_speech": "adjective",
+    "meaning": "very good at noticing or understanding things",
+    "example": "She was perspicacious and quickly figured out the solution.",
+    "pronunciation": "/ˌpɜrspɪˈkeɪʃəs/"
+  },
+  {
+    "word": "vicissitude",
+    "part_of_speech": "noun",
+    "meaning": "a change of circumstances or fortune, typically one that is unwelcome",
+    "example": "Despite the vicissitudes of life, she always remained optimistic.",
+    "pronunciation": "/vɪˈsɪsɪtuːd/"
+  },
+  {
+    "word": "sanguine",
+    "part_of_speech": "adjective",
+    "meaning": "optimistic or positive, especially in a difficult situation",
+    "example": "He remained sanguine about his chances of winning the competition.",
+    "pronunciation": "/ˈsæŋɡwɪn/"
+  },
+  {
+    "word": "raconteur",
+    "part_of_speech": "noun",
+    "meaning": "a person who tells anecdotes in a skillful and amusing way",
+    "example": "He was a celebrated raconteur, and parties were never dull when he was there.",
+    "pronunciation": "/ˌrækənˈtɜːr/"
+  },
+  {
+    "word": "prognosticate",
+    "part_of_speech": "verb",
+    "meaning": "to forecast or predict something",
+    "example": "It is difficult to prognosticate the outcome of the election.",
+    "pronunciation": "/prɒɡˈnɒstɪkeɪt/"
+  },
+  {
+    "word": "iconoclast",
+    "part_of_speech": "noun",
+    "meaning": "someone who challenges traditional ideas or beliefs",
+    "example": "He was an iconoclast who questioned old rules.",
+    "pronunciation": "/aɪˈkɒnəˌklæst/"
+  },
+  {
+    "word": "neophyte",
+    "part_of_speech": "noun",
+    "meaning": "a person who is new to a subject or skill",
+    "example": "As a neophyte in the kitchen, he started with simple recipes.",
+    "pronunciation": "/ˈniːəfaɪt/"
+  },
+  {
+    "word": "palimpsest",
+    "part_of_speech": "noun",
+    "meaning": "something reused or altered but still bearing visible traces of its earlier form",
+    "example": "The old city was a palimpsest of different architectural styles.",
+    "pronunciation": "/ˈpælɪmsest/"
+  },
+  {
+    "word": "sybarite",
+    "part_of_speech": "noun",
+    "meaning": "a person who is self-indulgent in their fondness for luxury and pleasure",
+    "example": "The sybarite spent his days at the spa and his nights at fine restaurants.",
+    "pronunciation": "/ˈsɪbəraɪt/"
+  },
+  {
+    "word": "travail",
+    "part_of_speech": "noun",
+    "meaning": "painful or laborious effort",
+    "example": "After months of travail, the project was finally complete.",
+    "pronunciation": "/trəˈveɪl/"
+  },
+  {
+    "word": "veracity",
+    "part_of_speech": "noun",
+    "meaning": "truthfulness or accuracy",
+    "example": "The veracity of his statement was called into question.",
+    "pronunciation": "/vəˈræsɪti/"
+  },
+  {
+    "word": "fulminate",
+    "part_of_speech": "verb",
+    "meaning": "to express strong protest or criticism",
+    "example": "He began to fulminate against the new regulations.",
+    "pronunciation": "/ˈfʌlmɪneɪt/"
+  },
+  {
+    "word": "gourmand",
+    "part_of_speech": "noun",
+    "meaning": "a person who enjoys eating and often eats too much",
+    "example": "The gourmand ordered one of every dessert on the menu.",
+    "pronunciation": "/ˈɡʊrmɑːnd/"
+  },
+  {
+    "word": "histrionic",
+    "part_of_speech": "adjective",
+    "meaning": "overly theatrical or melodramatic in character or behavior",
+    "example": "His histrionic reaction to the minor news was completely unnecessary.",
+    "pronunciation": "/ˌhɪstriˈɒnɪk/"
+  },
+  {
+    "word": "ignominious",
+    "part_of_speech": "adjective",
+    "meaning": "deserving or causing public disgrace",
+    "example": "The team suffered an ignominious defeat, losing 10-0.",
+    "pronunciation": "/ˌɪɡnəˈmɪniəs/"
+  },
+  {
+    "word": "jettison",
+    "part_of_speech": "verb",
+    "meaning": "to get rid of or discard",
+    "example": "The company had to jettison its plans for expansion.",
+    "pronunciation": "/ˈdʒetɪsən/"
+  },
+  {
+    "word": "kismet",
+    "part_of_speech": "noun",
+    "meaning": "destiny; fate",
+    "example": "It was kismet that brought the two long-lost friends together again.",
+    "pronunciation": "/ˈkɪzmet/"
+  },
+  {
+    "word": "litany",
+    "part_of_speech": "noun",
+    "meaning": "a long and repetitive list of complaints or problems",
+    "example": "He recited a litany of excuses for why he was late.",
+    "pronunciation": "/ˈlɪtəni/"
+  },
+  {
+    "word": "maelstrom",
+    "part_of_speech": "noun",
+    "meaning": "a powerful whirlpool; a situation or state of confused movement or violent turmoil",
+    "example": "The country was in a maelstrom of political unrest.",
+    "pronunciation": "/ˈmeɪlstrɒm/"
+  },
+  {
+    "word": "nascent",
+    "part_of_speech": "adjective",
+    "meaning": "just coming into existence and beginning to display signs of future potential",
+    "example": "The nascent industry showed great promise.",
+    "pronunciation": "/ˈnæsnt/"
+  },
+  {
+    "word": "obdurate",
+    "part_of_speech": "adjective",
+    "meaning": "stubbornly refusing to change one's opinion or course of action",
+    "example": "The obdurate child refused to eat his vegetables.",
+    "pronunciation": "/ˈɒbdjərət/"
+  },
+  {
+    "word": "paucity",
+    "part_of_speech": "noun",
+    "meaning": "the presence of something in only small or insufficient quantities or amounts",
+    "example": "There was a paucity of information on the topic.",
+    "pronunciation": "/ˈpɔːsɪti/"
+  },
+  {
+    "word": "quixotic",
+    "part_of_speech": "adjective",
+    "meaning": "extremely idealistic and unrealistic",
+    "example": "Her quixotic quest to find a perfect partner was never-ending.",
+    "pronunciation": "/kwɪkˈsɒtɪk/"
+  },
+  {
+    "word": "recondite",
+    "part_of_speech": "adjective",
+    "meaning": "little known; difficult to understand",
+    "example": "He enjoyed discussing recondite philosophical topics.",
+    "pronunciation": "/ˈrekəndaɪt/"
+  },
+  {
+    "word": "soporific",
+    "part_of_speech": "adjective",
+    "meaning": "making you feel sleepy",
+    "example": "The lecture was so soporific that many students nodded off.",
+    "pronunciation": "/ˌsɒpəˈrɪfɪk/"
+  },
+  {
+    "word": "taciturn",
+    "part_of_speech": "adjective",
+    "meaning": "quiet, not talking much",
+    "example": "The taciturn boy rarely spoke in class.",
+    "pronunciation": "/ˈtæsɪtɜrn/"
+  },
+  {
+    "word": "winsome",
+    "part_of_speech": "adjective",
+    "meaning": "attractive or appealing in a fresh, innocent way",
+    "example": "She had a winsome smile that charmed everyone.",
+    "pronunciation": "/ˈwɪnsəm/"
+  },
+  {
+    "word": "xenophobia",
+    "part_of_speech": "noun",
+    "meaning": "dislike of or prejudice against people from other countries",
+    "example": "The politician's speech was filled with xenophobia.",
+    "pronunciation": "/ˌzenəˈfoʊbiə/"
+  },
+  {
+    "word": "yeoman",
+    "part_of_speech": "noun",
+    "meaning": "a person who performs loyal and valuable service",
+    "example": "He was a yeoman of the company, working there for over 30 years.",
+    "pronunciation": "/ˈjoʊmən/"
+  },
+  {
+    "word": "zephyr",
+    "part_of_speech": "noun",
+    "meaning": "a gentle, mild breeze",
+    "example": "A zephyr blew through the open window.",
+    "pronunciation": "/ˈzefər/"
+  },
+  {
+    "word": "abrogate",
+    "part_of_speech": "verb",
+    "meaning": "to officially end a law or rule",
+    "example": "The government decided to abrogate the old regulation.",
+    "pronunciation": "/ˈæbrəˌɡeɪt/"
+  },
+  {
+    "word": "anathema",
+    "part_of_speech": "noun",
+    "meaning": "something or someone intensely disliked or loathed; a curse",
+    "example": "The idea of censorship is anathema to a journalist.",
+    "pronunciation": "/əˈnæθəmə/"
+  },
+  {
+    "word": "blandishment",
+    "part_of_speech": "noun",
+    "meaning": "a flattering or pleasing statement or action used to persuade someone gently",
+    "example": "He resisted the blandishments of the salespeople and didn't buy anything.",
+    "pronunciation": "/ˈblændɪʃmənt/"
+  },
+  {
+    "word": "circumspect",
+    "part_of_speech": "adjective",
+    "meaning": "wary and unwilling to take risks; careful",
+    "example": "She was circumspect in her dealings with strangers.",
+    "pronunciation": "/ˈsɜːrkəmspekt/"
+  },
+  {
+    "word": "deleterious",
+    "part_of_speech": "adjective",
+    "meaning": "causing harm or damage",
+    "example": "Smoking has a deleterious effect on your health.",
+    "pronunciation": "/ˌdeləˈtɪəriəs/"
+  },
+  {
+    "word": "enervate",
+    "part_of_speech": "verb",
+    "meaning": "to cause someone to feel drained of energy or vitality",
+    "example": "The long, hot summer day began to enervate the hikers.",
+    "pronunciation": "/ˈenərveɪt/"
+  },
+  {
+    "word": "fatuous",
+    "part_of_speech": "adjective",
+    "meaning": "silly and pointless; foolish",
+    "example": "His fatuous comments added nothing to the serious discussion.",
+    "pronunciation": "/ˈfætʃuəs/"
+  },
+  {
+    "word": "gainsay",
+    "part_of_speech": "verb",
+    "meaning": "to deny or contradict a fact or statement",
+    "example": "The evidence was so clear that no one could gainsay it.",
+    "pronunciation": "/ˌɡeɪnˈseɪ/"
+  },
+  {
+    "word": "hapless",
+    "part_of_speech": "adjective",
+    "meaning": "unfortunate; unlucky",
+    "example": "The hapless hero of the story faced one disaster after another.",
+    "pronunciation": "/ˈhæpləs/"
+  },
+  {
+    "word": "impecunious",
+    "part_of_speech": "adjective",
+    "meaning": "having little or no money",
+    "example": "As an impecunious student, he couldn't afford many luxuries.",
+    "pronunciation": "/ˌɪmpɪˈkjuːniəs/"
+  },
+  {
+    "word": "jejune",
+    "part_of_speech": "adjective",
+    "meaning": "naive, simplistic, and superficial; childish",
+    "example": "His jejune remarks showed a lack of understanding of the issue.",
+    "pronunciation": "/dʒɪˈdʒuːn/"
+  },
+  {
+    "word": "knell",
+    "part_of_speech": "noun",
+    "meaning": "the solemn sound of a bell, especially when rung for a death or funeral",
+    "example": "The tolling of the bell was a death knell for the old era.",
+    "pronunciation": "/nel/"
+  },
+  {
+    "word": "licentious",
+    "part_of_speech": "adjective",
+    "meaning": "promiscuous and unprincipled in sexual matters; disregarding rules",
+    "example": "The licentious lifestyle of the Roman emperors is well-documented.",
+    "pronunciation": "/laɪˈsenʃəs/"
+  },
+  {
+    "word": "misanthropy",
+    "part_of_speech": "noun",
+    "meaning": "a dislike of humankind",
+    "example": "His misanthropy grew after years of being betrayed by friends.",
+    "pronunciation": "/mɪˈsænθrəpi/"
+  },
+  {
+    "word": "noisome",
+    "part_of_speech": "adjective",
+    "meaning": "having an extremely offensive smell",
+    "example": "The noisome fumes from the factory made the neighborhood unbearable.",
+    "pronunciation": "/ˈnɔɪsəm/"
+  },
+  {
+    "word": "obsequious",
+    "part_of_speech": "adjective",
+    "meaning": "too eager to please someone",
+    "example": "The obsequious assistant agreed with everything the boss said.",
+    "pronunciation": "/əbˈsiːkwɪəs/"
+  },
+  {
+    "word": "reprobate",
+    "part_of_speech": "noun",
+    "meaning": "an unprincipled or wicked person",
+    "example": "He was considered a reprobate by the entire community.",
+    "pronunciation": "/ˈreprəbeɪt/"
+  },
+  {
+    "word": "salubrious",
+    "part_of_speech": "adjective",
+    "meaning": "health-giving; healthy",
+    "example": "The salubrious mountain air was good for his lungs.",
+    "pronunciation": "/səˈluːbriəs/"
+  },
+  {
+    "word": "trenchant",
+    "part_of_speech": "adjective",
+    "meaning": "vigorous or incisive in expression or style",
+    "example": "She was known for her trenchant criticism of the government.",
+    "pronunciation": "/ˈtrentʃənt/"
+  },
+  {
+    "word": "umbrage",
+    "part_of_speech": "noun",
+    "meaning": "offense or annoyance",
+    "example": "She took umbrage at his sarcastic comment.",
+    "pronunciation": "/ˈʌmbrɪdʒ/"
+  },
+  {
+    "word": "vacillate",
+    "part_of_speech": "verb",
+    "meaning": "to waver between different opinions or actions; be indecisive",
+    "example": "He continued to vacillate between the two job offers.",
+    "pronunciation": "/ˈvæsɪleɪt/"
+  },
+  {
+    "word": "wanton",
+    "part_of_speech": "adjective",
+    "meaning": "deliberate and unprovoked",
+    "example": "The wanton act of vandalism shocked the community.",
+    "pronunciation": "/ˈwɒntən/"
+  },
+  {
+    "word": "xenodochial",
+    "part_of_speech": "adjective",
+    "meaning": "friendly to strangers",
+    "example": "The xenodochial islanders welcomed the lost travelers.",
+    "pronunciation": "/ˌzenəˈdɒkiəl/"
+  },
+  {
+    "word": "yen",
+    "part_of_speech": "noun",
+    "meaning": "a strong desire or craving",
+    "example": "She had a yen for a piece of chocolate cake.",
+    "pronunciation": "/jen/"
+  },
+  {
+    "word": "zestful",
+    "part_of_speech": "adjective",
+    "meaning": "full of energy and enthusiasm",
+    "example": "Her zestful personality was contagious.",
+    "pronunciation": "/ˈzestfl/"
+  },
+  {
+    "word": "adumbrate",
+    "part_of_speech": "verb",
+    "meaning": "to represent in outline; to foreshadow",
+    "example": "The dark clouds adumbrated the coming storm.",
+    "pronunciation": "/ˈædʌmbreɪt/"
+  },
+  {
+    "word": "castigate",
+    "part_of_speech": "verb",
+    "meaning": "to reprimand someone severely",
+    "example": "The coach castigated the team for their poor performance.",
+    "pronunciation": "/ˈkæstɪɡeɪt/"
+  },
+  {
+    "word": "dilatory",
+    "part_of_speech": "adjective",
+    "meaning": "slow to act; tending to delay",
+    "example": "His dilatory approach to the project frustrated his colleagues.",
+    "pronunciation": "/ˈdɪlətɔːri/"
+  },
+  {
+    "word": "equanimity",
+    "part_of_speech": "noun",
+    "meaning": "mental calmness and composure, especially in a difficult situation",
+    "example": "She faced the bad news with surprising equanimity.",
+    "pronunciation": "/ˌiːkwəˈnɪmɪti/"
+  },
+  {
+    "word": "fecund",
+    "part_of_speech": "adjective",
+    "meaning": "producing an abundance of offspring or new growth; fertile",
+    "example": "The fecund soil was perfect for growing vegetables.",
+    "pronunciation": "/ˈfiːkənd/"
+  },
+  {
+    "word": "harangue",
+    "part_of_speech": "noun",
+    "meaning": "a lengthy and aggressive speech",
+    "example": "The politician delivered a long harangue against his opponents.",
+    "pronunciation": "/həˈræŋ/"
+  },
+  {
+    "word": "knavery",
+    "part_of_speech": "noun",
+    "meaning": "a roguish or mischievous act",
+    "example": "His knavery was harmless, but it often got him into trouble.",
+    "pronunciation": "/ˈneɪvəri/"
+  },
+  {
+    "word": "lachrymose",
+    "part_of_speech": "adjective",
+    "meaning": "likely to cry or make others sad",
+    "example": "The lachrymose story made everyone tear up.",
+    "pronunciation": "/ˈlækrɪmoʊs/"
+  },
+  {
+    "word": "nonplussed",
+    "part_of_speech": "adjective",
+    "meaning": "surprised and confused so much that one is unsure how to react",
+    "example": "She was completely nonplussed by his unexpected proposal.",
+    "pronunciation": "/nɒnˈplʌst/"
+  },
+  {
+    "word": "perfidy",
+    "part_of_speech": "noun",
+    "meaning": "betrayal or deceit",
+    "example": "He was punished for his perfidy against the team.",
+    "pronunciation": "/ˈpɜːrfɪdi/"
+  },
+  {
+    "word": "recalcitrant",
+    "part_of_speech": "adjective",
+    "meaning": "stubbornly refusing to do what you’re asked",
+    "example": "The recalcitrant student ignored all the instructions.",
+    "pronunciation": "/rɪˈkælsɪtrənt/"
+  },
+  {
+    "word": "sacrilege",
+    "part_of_speech": "noun",
+    "meaning": "violation or misuse of what is regarded as sacred",
+    "example": "To the art lover, destroying the painting was a sacrilege.",
+    "pronunciation": "/ˈsækrəlɪdʒ/"
+  },
+  {
+    "word": "tendentious",
+    "part_of_speech": "adjective",
+    "meaning": "expressing a controversial or biased opinion",
+    "example": "His tendentious article sparked a heated debate.",
+    "pronunciation": "/tenˈdenʃəs/"
+  },
+  {
+    "word": "yoke",
+    "part_of_speech": "noun",
+    "meaning": "a burden or something that restricts freedom",
+    "example": "She finally threw off the yoke of her oppressive job.",
+    "pronunciation": "/joʊk/"
+  },
+  {
+    "word": "abjure",
+    "part_of_speech": "verb",
+    "meaning": "to renounce or reject solemnly",
+    "example": "He was forced to abjure his faith to save his life.",
+    "pronunciation": "/əbˈdʒʊər/"
+  },
+  {
+    "word": "chicanery",
+    "part_of_speech": "noun",
+    "meaning": "the use of trickery to achieve a goal",
+    "example": "The company's chicanery was exposed by an investigative journalist.",
+    "pronunciation": "/ʃɪˈkeɪnəri/"
+  },
+  {
+    "word": "desultory",
+    "part_of_speech": "adjective",
+    "meaning": "lacking a plan or purpose; jumping from one thing to another",
+    "example": "His desultory conversation touched on many topics without depth.",
+    "pronunciation": "/ˈdesəltɔːri/"
+  },
+  {
+    "word": "exculpate",
+    "part_of_speech": "verb",
+    "meaning": "to clear from blame or fault",
+    "example": "The new evidence was enough to exculpate the suspect.",
+    "pronunciation": "/ˈekskʌlpeɪt/"
+  },
+  {
+    "word": "fulsome",
+    "part_of_speech": "adjective",
+    "meaning": "offensive because of being excessive or insincere",
+    "example": "His fulsome praise of the boss was seen as an attempt to get a promotion.",
+    "pronunciation": "/ˈfʊlsəm/"
+  },
+  {
+    "word": "legerdemain",
+    "part_of_speech": "noun",
+    "meaning": "sleight of hand; trickery",
+    "example": "The magician's legerdemain amazed the audience.",
+    "pronunciation": "/ˌledʒərdəˈmeɪn/"
+  },
+  {
+    "word": "mendacious",
+    "part_of_speech": "adjective",
+    "meaning": "lying; untruthful",
+    "example": "The mendacious witness was caught in several lies.",
+    "pronunciation": "/menˈdeɪʃəs/"
+  },
+  {
+    "word": "opprobrium",
+    "part_of_speech": "noun",
+    "meaning": "harsh criticism or public disgrace",
+    "example": "His actions brought opprobrium upon his entire family.",
+    "pronunciation": "/əˈproʊbriəm/"
+  },
+  {
+    "word": "pulchritudinous",
+    "part_of_speech": "adjective",
+    "meaning": "having great physical beauty",
+    "example": "The pulchritudinous actress was admired by many.",
+    "pronunciation": "/ˌpʌlkrɪˈtuːdɪnəs/"
+  },
+  {
+    "word": "truculent",
+    "part_of_speech": "adjective",
+    "meaning": "eager or quick to argue or fight",
+    "example": "His truculent attitude made it difficult to have a civil conversation.",
+    "pronunciation": "/ˈtrʌkjələnt/"
+  },
+  {
+    "word": "veracious",
+    "part_of_speech": "adjective",
+    "meaning": "truthful or honest",
+    "example": "She was known as a veracious witness.",
+    "pronunciation": "/vəˈreɪʃəs/"
+  },
+  {
+    "word": "welter",
+    "part_of_speech": "noun",
+    "meaning": "a confused mass or turmoil",
+    "example": "He was lost in a welter of emotions.",
+    "pronunciation": "/ˈweltər/"
+  },
+  {
+    "word": "lugubrious",
+    "part_of_speech": "adjective",
+    "meaning": "looking or sounding really sad or gloomy",
+    "example": "The movie had a lugubrious tone that made everyone feel down.",
+    "pronunciation": "/ləˈɡuːbriəs/"
+  },
+  {
+    "word": "resplendent",
+    "part_of_speech": "adjective",
+    "meaning": "very bright, colorful, or beautiful",
+    "example": "The garden looked resplendent with all the flowers blooming.",
+    "pronunciation": "/rɪˈsplɛndənt/"
+  },
+  {
+    "word": "juxtapose",
+    "part_of_speech": "verb",
+    "meaning": "to put two things together to show how different they are",
+    "example": "The artist juxtaposed old and modern paintings on the same wall.",
+    "pronunciation": "/ˈdʒʌkstəˌpoʊz/"
+  },
+  {
+    "word": "cogent",
+    "part_of_speech": "adjective",
+    "meaning": "clear and convincing",
+    "example": "Her argument was cogent, and everyone agreed.",
+    "pronunciation": "/ˈkoʊdʒənt/"
+  },
+  {
+    "word": "bucolic",
+    "part_of_speech": "adjective",
+    "meaning": "pleasant and peaceful, like the countryside",
+    "example": "They spent a bucolic weekend in the mountains.",
+    "pronunciation": "/bjuːˈkɒlɪk/"
+  },
+  {
+    "word": "sonder",
+    "part_of_speech": "noun",
+    "meaning": "realizing that everyone has their own complicated life",
+    "example": "She felt a sense of sonder while watching people in the park.",
+    "pronunciation": "/ˈsɒndər/"
+  },
+  {
+    "word": "defenestration",
+    "part_of_speech": "noun",
+    "meaning": "the act of throwing someone out of a window",
+    "example": "The comic scene ended in a defenestration of the dummy.",
+    "pronunciation": "/ˌdiːfəˈnɛstreɪʃən/"
+  },
+  {
+    "word": "halcyon",
+    "part_of_speech": "adjective",
+    "meaning": "happy and peaceful, often describing the past",
+    "example": "They remembered the halcyon days of their childhood.",
+    "pronunciation": "/ˈhælsiən/"
+  },
+  {
+    "word": "flabbergasted",
+    "part_of_speech": "adjective",
+    "meaning": "very surprised or shocked",
+    "example": "He was flabbergasted when he won the lottery.",
+    "pronunciation": "/ˈflæbərɡæstɪd/"
+  },
+  {
+    "word": "ineffable",
+    "part_of_speech": "adjective",
+    "meaning": "too amazing or extreme to describe in words",
+    "example": "The view from the mountain was ineffable.",
+    "pronunciation": "/ɪnˈɛfəbəl/"
+  },
+  {
+    "word": "nadir",
+    "part_of_speech": "noun",
+    "meaning": "the lowest point of something",
+    "example": "The company's nadir was during the financial crisis.",
+    "pronunciation": "/ˈneɪdɪər/"
+  },
+  {
+    "word": "kaleidoscope",
+    "part_of_speech": "noun",
+    "meaning": "a mix of changing patterns or colors",
+    "example": "Her emotions were a kaleidoscope of happiness and sadness.",
+    "pronunciation": "/kəˈlaɪdəˌskoʊp/"
+  },
+  {
+    "word": "anachronism",
+    "part_of_speech": "noun",
+    "meaning": "something that is out of its proper time",
+    "example": "A smartphone in a medieval movie is an anachronism.",
+    "pronunciation": "/əˈnækrəˌnɪzəm/"
+  },
+  {
+    "word": "epiphany",
+    "part_of_speech": "noun",
+    "meaning": "a sudden moment of understanding",
+    "example": "He had an epiphany and finally understood the problem.",
+    "pronunciation": "/ɪˈpɪfəni/"
+  },
+  {
+    "word": "mellifluous",
+    "part_of_speech": "adjective",
+    "meaning": "pleasant and smooth to hear",
+    "example": "The singer’s mellifluous voice charmed the audience.",
+    "pronunciation": "/məˈlɪfluəs/"
+  },
+  {
+    "word": "sagacious",
+    "part_of_speech": "adjective",
+    "meaning": "wise and good at making decisions",
+    "example": "The sagacious leader guided the team successfully.",
+    "pronunciation": "/səˈɡeɪʃəs/"
+  },
+  {
+    "word": "pulchritude",
+    "part_of_speech": "noun",
+    "meaning": "beauty, especially of a person",
+    "example": "The actress was admired for her pulchritude.",
+    "pronunciation": "/ˈpʌlkrɪˌtjud/"
+  },
+  {
+    "word": "temerity",
+    "part_of_speech": "noun",
+    "meaning": "boldness or confidence that can be seen as reckless",
+    "example": "She had the temerity to speak up in the meeting.",
+    "pronunciation": "/təˈmɛrɪti/"
+  },
+  {
+    "word": "abstruse",
+    "part_of_speech": "adjective",
+    "meaning": "hard to understand",
+    "example": "The book was so abstruse that only experts could follow it.",
+    "pronunciation": "/æbˈstruːs/"
+  },
+  {
+    "word": "tacit",
+    "part_of_speech": "adjective",
+    "meaning": "understood without being said",
+    "example": "There was a tacit agreement not to discuss the topic.",
+    "pronunciation": "/ˈtæsɪt/"
+  },
+  {
+    "word": "insidious",
+    "part_of_speech": "adjective",
+    "meaning": "gradually causing harm without being noticed",
+    "example": "The disease was insidious, spreading quietly for years.",
+    "pronunciation": "/ɪnˈsɪdiəs/"
+  },
+  {
+    "word": "ameliorate",
+    "part_of_speech": "verb",
+    "meaning": "to make something better or improve it",
+    "example": "The new law will ameliorate living conditions for many.",
+    "pronunciation": "/əˈmiːliəˌreɪt/"
+  },
+  {
+    "word": "cursory",
+    "part_of_speech": "adjective",
+    "meaning": "done quickly and not carefully",
+    "example": "He gave a cursory glance at the report before signing it.",
+    "pronunciation": "/ˈkɜrsəri/"
+  },
+  {
+    "word": "miasma",
+    "part_of_speech": "noun",
+    "meaning": "an unpleasant or unhealthy atmosphere",
+    "example": "The old swamp gave off a miasma of decay.",
+    "pronunciation": "/miˈæzmə/"
+  },
+  {
+    "word": "nefarious",
+    "part_of_speech": "adjective",
+    "meaning": "wicked or criminal",
+    "example": "The villain had a nefarious plan to take over the city.",
+    "pronunciation": "/nɪˈfɛəriəs/"
+  }
+]

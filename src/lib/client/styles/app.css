@@ -1,0 +1,41 @@
+@import 'tw-animate-css';
+@import 'tailwindcss';
+@plugin '@tailwindcss/typography';
+
+@theme {
+	--font-sans: 'Creato Display', sans-serif;
+	--font-handwriting: 'Royalty Free', sans-serif;
+}
+
+@layer base {
+	p,
+	li {
+		@apply text-zinc-600 tracking-wider;
+	}
+
+	p,
+	ul,
+	ol,
+	li {
+		@apply leading-relaxed;
+	}
+
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		@apply text-zinc-700;
+	}
+
+	span {
+		@apply inline-flex text-zinc-600;
+	}
+}
+
+@layer components {
+	.inner {
+		@apply w-9/10 max-w-240 mx-auto;
+	}
+}

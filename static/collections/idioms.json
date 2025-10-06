@@ -1,0 +1,482 @@
+[
+  {
+    "idiom": "Break the ice",
+    "meaning": "To do or say something to relieve tension or start a conversation in a social setting.",
+    "example": "He told a joke to break the ice at the beginning of the meeting.",
+    "origin": "In the 17th century, ships called 'icebreakers' were used to break ice in harbors to allow trade, metaphorically starting communication."
+  },
+  {
+    "idiom": "Hit the sack",
+    "meaning": "To go to bed or go to sleep.",
+    "example": "I'm really tired, so I think I'll hit the sack early tonight.",
+    "origin": "Refers to the time when mattresses were often sacks filled with straw; 'hitting the sack' meant lying down on it."
+  },
+  {
+    "idiom": "Let the cat out of the bag",
+    "meaning": "To reveal a secret or a surprise by accident.",
+    "example": "She let the cat out of the bag about the surprise party.",
+    "origin": "In medieval markets, farmers sold pigs in bags, but dishonest ones would substitute a cat; revealing the secret spoiled the trick."
+  },
+  {
+    "idiom": "Burn the midnight oil",
+    "meaning": "To work late into the night.",
+    "example": "She had to burn the midnight oil to finish her project on time.",
+    "origin": "Before electricity, people used oil lamps to work or read at night."
+  },
+  {
+    "idiom": "Piece of cake",
+    "meaning": "Something that is very easy to do.",
+    "example": "The exam was a piece of cake; I finished it in 20 minutes.",
+    "origin": "Originated from 19th century competitions where cakes were given as prizes for easy tasks."
+  },
+  {
+    "idiom": "Once in a blue moon",
+    "meaning": "Something that happens very rarely.",
+    "example": "He only visits his hometown once in a blue moon.",
+    "origin": "A 'blue moon' refers to the rare second full moon in a single calendar month."
+  },
+  {
+    "idiom": "Cut corners",
+    "meaning": "To do something in a cheaper or easier way that may not be the best.",
+    "example": "They cut corners on the construction, which caused problems later.",
+    "origin": "Comes from the idea of taking a shorter path, skipping proper steps."
+  },
+  {
+    "idiom": "Cry over spilled milk",
+    "meaning": "To be upset about something that has already happened and cannot be changed.",
+    "example": "It's no use crying over spilled milk; just try to fix it.",
+    "origin": "Originates from the 17th century, emphasizing not worrying over minor accidents."
+  },
+  {
+    "idiom": "Barking up the wrong tree",
+    "meaning": "To make a wrong assumption or pursue the wrong course of action.",
+    "example": "If you think I took your book, you're barking up the wrong tree.",
+    "origin": "From hunting dogs who sometimes mistakenly bark at the base of a tree where prey isn’t present."
+  },
+  {
+    "idiom": "Add fuel to the fire",
+    "meaning": "To make a bad situation worse.",
+    "example": "His comments just added fuel to the fire during their argument.",
+    "origin": "Literally means adding more fuel to a fire, making it burn stronger."
+  },
+  {
+    "idiom": "Under the weather",
+    "meaning": "Feeling ill or sick.",
+    "example": "I feel a bit under the weather today, so I'll stay home.",
+    "origin": "Sailors used this phrase when they were ill and sent below deck to avoid bad weather."
+  },
+  {
+    "idiom": "Throw in the towel",
+    "meaning": "To give up or admit defeat.",
+    "example": "After trying for hours, he finally threw in the towel.",
+    "origin": "From boxing, where throwing a towel into the ring signals surrender."
+  },
+  {
+    "idiom": "Hit the nail on the head",
+    "meaning": "To describe exactly what is causing a situation or problem.",
+    "example": "You hit the nail on the head with your analysis of the problem.",
+    "origin": "From carpentry, hitting the nail accurately to drive it in perfectly."
+  },
+  {
+    "idiom": "Cost an arm and a leg",
+    "meaning": "Something that is very expensive.",
+    "example": "That car costs an arm and a leg!",
+    "origin": "Originates from the 18th century, indicating high price by exaggerating the cost in body parts."
+  },
+  {
+    "idiom": "Back to the drawing board",
+    "meaning": "Start over because the previous attempt failed.",
+    "example": "The project failed, so it's back to the drawing board.",
+    "origin": "From early engineering and design, when plans had to be redrawn after failure."
+  },
+  {
+    "idiom": "The ball is in your court",
+    "meaning": "It’s your responsibility to take the next step.",
+    "example": "I've done my part; now the ball is in your court.",
+    "origin": "From tennis, where the player whose turn it is has control of the ball."
+  },
+  {
+    "idiom": "Hit the road",
+    "meaning": "To leave a place or start a journey.",
+    "example": "It's getting late; we should hit the road.",
+    "origin": "Originates from early 20th century America, meaning to travel by road."
+  },
+  {
+    "idiom": "Keep your fingers crossed",
+    "meaning": "To hope that things will happen in the way you want.",
+    "example": "Keep your fingers crossed that we get good weather for the picnic.",
+    "origin": "Originated in early Christianity, making a cross with fingers as a symbol of hope."
+  },
+  {
+    "idiom": "By the skin of your teeth",
+    "meaning": "To barely succeed at something.",
+    "example": "He passed the exam by the skin of his teeth.",
+    "origin": "From the Bible, meaning escaping with the smallest margin."
+  },
+  {
+    "idiom": "Call it a day",
+    "meaning": "To stop working for the day.",
+    "example": "We've done enough work; let's call it a day.",
+    "origin": "From the 19th century, meaning to stop work and rest for the day."
+  },
+  {
+    "idiom": "A blessing in disguise",
+    "meaning": "Something that seems bad at first but turns out to be good.",
+    "example": "Losing that job was a blessing in disguise because I found a better one.",
+    "origin": "Early 18th century, meaning a hidden benefit behind an apparent misfortune."
+  },
+  {
+    "idiom": "Beat around the bush",
+    "meaning": "To avoid talking about the main topic.",
+    "example": "Stop beating around the bush and tell me what happened.",
+    "origin": "From hunting, where hunters would beat bushes to flush out game, avoiding direct action initially."
+  },
+  {
+    "idiom": "Hit the jackpot",
+    "meaning": "To have great success or luck, especially unexpectedly.",
+    "example": "She hit the jackpot with her new business idea.",
+    "origin": "From gambling, especially slot machines, where hitting the jackpot gives a big reward."
+  },
+  {
+    "idiom": "Face the music",
+    "meaning": "To accept the consequences of your actions.",
+    "example": "He has to face the music for missing the deadline.",
+    "origin": "Early 20th century, possibly from military bands playing as soldiers faced punishment."
+  },
+  {
+    "idiom": "Go the extra mile",
+    "meaning": "To make an extra effort to achieve something.",
+    "example": "She always goes the extra mile to help her students succeed.",
+    "origin": "From the Bible, meaning to go beyond what is required."
+  },
+  {
+    "idiom": "Throw caution to the wind",
+    "meaning": "To take a risk without worrying about the outcome.",
+    "example": "He threw caution to the wind and invested all his savings in the startup.",
+    "origin": "16th century, meaning abandoning careful planning."
+  },
+  {
+    "idiom": "Bite off more than you can chew",
+    "meaning": "To take on more than you can handle.",
+    "example": "She bit off more than she could chew by agreeing to manage three projects at once.",
+    "origin": "From the literal act of taking a bite too big to chew comfortably."
+  },
+  {
+    "idiom": "Burn bridges",
+    "meaning": "To destroy relationships or opportunities permanently.",
+    "example": "Be careful not to burn bridges with your former coworkers.",
+    "origin": "From military strategy, where armies burned bridges to prevent retreat."
+  },
+  {
+    "idiom": "Don't put all your eggs in one basket",
+    "meaning": "Don't risk everything on a single plan or idea.",
+    "example": "Invest in multiple stocks instead of putting all your eggs in one basket.",
+    "origin": "Early 17th century proverb, literally about carrying eggs carefully to avoid losing all."
+  },
+  {
+    "idiom": "Get a taste of your own medicine",
+    "meaning": "To experience the same bad treatment you give others.",
+    "example": "He got a taste of his own medicine when someone ignored him like he ignored others.",
+    "origin": "Originated in the 17th century, meaning experiencing the effects of one’s own actions."
+  },
+  {
+    "idiom": "Go back to square one",
+    "meaning": "To start over after a failure.",
+    "example": "The experiment failed, so it's back to square one.",
+    "origin": "From early board games, where players return to the first square when failing."
+  },
+  {
+    "idiom": "Kick the bucket",
+    "meaning": "To die.",
+    "example": "Unfortunately, their old dog kicked the bucket last night.",
+    "origin": "[Unverified] Possibly from a method of slaughtering animals using a bucket; exact origin unclear."
+  },
+  {
+    "idiom": "Let sleeping dogs lie",
+    "meaning": "To avoid mentioning a problem or argument that could cause trouble.",
+    "example": "Don't bring up old disagreements; let sleeping dogs lie.",
+    "origin": "16th century proverb warning against unnecessary trouble."
+  },
+  {
+    "idiom": "On cloud nine",
+    "meaning": "Feeling extremely happy.",
+    "example": "She was on cloud nine after getting the promotion.",
+    "origin": "20th century, derived from a weather classification where cloud nine was the fluffy, high one."
+  },
+  {
+    "idiom": "Out of the blue",
+    "meaning": "Something happening unexpectedly.",
+    "example": "His call came out of the blue after years of silence.",
+    "origin": "19th century phrase meaning a sudden event like a clear blue sky without warning."
+  },
+  {
+    "idiom": "Rain on someone's parade",
+    "meaning": "To spoil someone's plans or celebration.",
+    "example": "I hate to rain on your parade, but the tickets are sold out.",
+    "origin": "Early 20th century, from literally spoiling parades with rain."
+  },
+  {
+    "idiom": "Sit on the fence",
+    "meaning": "To remain neutral or undecided.",
+    "example": "He is sitting on the fence instead of choosing a side.",
+    "origin": "From the literal act of sitting on a fence to avoid taking sides in disputes."
+  },
+  {
+    "idiom": "Spill the beans",
+    "meaning": "To reveal a secret.",
+    "example": "Who spilled the beans about the surprise party?",
+    "origin": "Ancient Greece, where voting with beans could reveal results prematurely if spilled."
+  },
+  {
+    "idiom": "Steal someone's thunder",
+    "meaning": "To take credit for someone else's idea or achievement.",
+    "example": "She stole my thunder by presenting my idea as her own.",
+    "origin": "From 18th century theater; a playwright’s sound effect was used by another without permission."
+  },
+  {
+    "idiom": "Take it with a grain of salt",
+    "meaning": "To not take something too seriously or literally.",
+    "example": "Take his advice with a grain of salt; he tends to exaggerate.",
+    "origin": "From ancient Rome, meaning to be skeptical, literally adding a grain of salt to make a poison safer."
+  },
+  {
+    "idiom": "At the drop of a hat",
+    "meaning": "To do something immediately without hesitation.",
+    "example": "She’s ready to travel at the drop of a hat.",
+    "origin": "19th century, where dropping a hat was a signal to start a race or fight."
+  },
+  {
+    "idiom": "Bend over backwards",
+    "meaning": "To make a great effort to help someone.",
+    "example": "He bent over backwards to make sure the event went smoothly.",
+    "origin": "Literal act of bending backwards to show extreme effort."
+  },
+  {
+    "idiom": "Between a rock and a hard place",
+    "meaning": "To be faced with two difficult choices.",
+    "example": "She was caught between a rock and a hard place when choosing between two jobs.",
+    "origin": "19th century mining term for dangerous positions between rocks."
+  },
+  {
+    "idiom": "By the book",
+    "meaning": "To do something strictly according to rules.",
+    "example": "The police officer did everything by the book.",
+    "origin": "From following official rules or procedures exactly."
+  },
+  {
+    "idiom": "Caught red-handed",
+    "meaning": "To be caught in the act of doing something wrong.",
+    "example": "He was caught red-handed stealing from the store.",
+    "origin": "From 15th century Scotland, referring to someone caught with blood on their hands after a crime."
+  },
+  {
+    "idiom": "Cross that bridge when you come to it",
+    "meaning": "Deal with a problem when it happens, not before.",
+    "example": "Don’t worry about the argument yet; we’ll cross that bridge when we come to it.",
+    "origin": "Early 19th century, literal meaning of dealing with a bridge only when reaching it."
+  },
+  {
+    "idiom": "Cut to the chase",
+    "meaning": "To get to the point without wasting time.",
+    "example": "Let’s cut to the chase and discuss the main issue.",
+    "origin": "From early 20th century filmmaking, skipping slow parts to reach the chase scene."
+  },
+  {
+    "idiom": "Devil’s advocate",
+    "meaning": "Someone who argues the opposite side for the sake of discussion.",
+    "example": "I’ll play devil’s advocate to see if your plan has flaws.",
+    "origin": "From the Roman Catholic Church, where a person argued against canonization of a saint."
+  },
+  {
+    "idiom": "Don't count your chickens before they hatch",
+    "meaning": "Don't assume success before it happens.",
+    "example": "You might get the job, but don’t count your chickens before they hatch.",
+    "origin": "16th century proverb warning against assuming outcomes too early."
+  },
+  {
+    "idiom": "Every cloud has a silver lining",
+    "meaning": "There is something good in every bad situation.",
+    "example": "Losing the game was tough, but every cloud has a silver lining—we learned from our mistakes.",
+    "origin": "17th century, meaning a bright edge around a dark cloud symbolizes hope."
+  },
+  {
+    "idiom": "Give someone the cold shoulder",
+    "meaning": "To ignore or show disinterest in someone.",
+    "example": "After the argument, he gave me the cold shoulder all week.",
+    "origin": "19th century Scotland, serving an unwanted guest cold shoulder of meat as a sign of dismissal."
+  },
+  {
+    "idiom": "Go out on a limb",
+    "meaning": "To take a risk or put yourself in a vulnerable position.",
+    "example": "I’m going out on a limb by suggesting we invest all our savings in this idea.",
+    "origin": "From climbing trees, standing on a branch away from the trunk is risky."
+  },
+  {
+    "idiom": "Have a chip on your shoulder",
+    "meaning": "To be easily angered or hold a grudge.",
+    "example": "He has a chip on his shoulder about being overlooked for promotion.",
+    "origin": "19th century, boys would place a chip on their shoulder daring others to knock it off as a fight challenge."
+  },
+  {
+    "idiom": "In the nick of time",
+    "meaning": "Just in time, at the last possible moment.",
+    "example": "She arrived in the nick of time to catch the bus.",
+    "origin": "16th century, 'nick' meaning critical point or precise moment."
+  },
+  {
+    "idiom": "Jump on the bandwagon",
+    "meaning": "To join or follow something popular.",
+    "example": "Many companies jumped on the bandwagon when AI became trendy.",
+    "origin": "19th century, from circus wagons with bands that people would follow in parades."
+  },
+  {
+    "idiom": "Know the ropes",
+    "meaning": "To be experienced or skilled in something.",
+    "example": "He knows the ropes of managing a restaurant after years of experience.",
+    "origin": "From sailing, where sailors learned which ropes controlled which sails."
+  },
+  {
+    "idiom": "Last straw",
+    "meaning": "The final problem in a series of problems.",
+    "example": "Missing the deadline was the last straw; the manager fired him.",
+    "origin": "From the proverb 'the straw that broke the camel's back.'"
+  },
+  {
+    "idiom": "Make a long story short",
+    "meaning": "To summarize or get to the point quickly.",
+    "example": "To make a long story short, we missed the train but caught the next one.",
+    "origin": "16th century phrase used in storytelling to skip unnecessary details."
+  },
+  {
+    "idiom": "Off the hook",
+    "meaning": "To be freed from a difficult situation or responsibility.",
+    "example": "He was off the hook when the mistake wasn’t his fault.",
+    "origin": "From fishing, where a fish is no longer on the hook and is free."
+  },
+  {
+    "idiom": "Pull someone’s leg",
+    "meaning": "To joke or tease someone.",
+    "example": "Are you serious, or are you just pulling my leg?",
+    "origin": "18th century, possibly from the act of tripping someone to make them stumble as a joke."
+  },
+  {
+    "idiom": "Pull yourself together",
+    "meaning": "To calm down and regain control of your emotions.",
+    "example": "After crying for hours, she tried to pull herself together before the meeting.",
+    "origin": "19th century, meaning to physically and mentally regain composure."
+  },
+  {
+    "idiom": "Rome wasn’t built in a day",
+    "meaning": "Important things take time to achieve.",
+    "example": "Learning a new language is hard, but remember, Rome wasn’t built in a day.",
+    "origin": "Proverb dating back to the 12th century, emphasizing patience for large achievements."
+  },
+  {
+    "idiom": "See eye to eye",
+    "meaning": "To agree with someone.",
+    "example": "We finally saw eye to eye on the budget plans.",
+    "origin": "16th century, meaning to have a shared vision or perspective."
+  },
+  {
+    "idiom": "Sit tight",
+    "meaning": "To wait patiently without taking action.",
+    "example": "Sit tight until the manager gives further instructions.",
+    "origin": "19th century, possibly from horseback riding, meaning to stay firmly seated."
+  },
+  {
+    "idiom": "Speak of the devil",
+    "meaning": "Said when someone you are talking about appears unexpectedly.",
+    "example": "Speak of the devil, here comes John!",
+    "origin": "16th century, originally warning that mentioning the devil might summon him."
+  },
+  {
+    "idiom": "The best of both worlds",
+    "meaning": "To enjoy two desirable but usually incompatible things.",
+    "example": "She works part-time from home and part-time in the office, enjoying the best of both worlds.",
+    "origin": "Early 20th century phrase, meaning to get advantages from two situations."
+  },
+  {
+    "idiom": "The early bird catches the worm",
+    "meaning": "Being early gives an advantage.",
+    "example": "I arrived first to the sale—after all, the early bird catches the worm.",
+    "origin": "17th century proverb, emphasizing the benefits of promptness."
+  },
+  {
+    "idiom": "Throw your weight around",
+    "meaning": "To use your power or influence in an arrogant way.",
+    "example": "He’s always throwing his weight around at work.",
+    "origin": "Literal act of using physical weight to assert dominance, 19th century."
+  },
+  {
+    "idiom": "Time flies",
+    "meaning": "Time passes quickly.",
+    "example": "Time flies when you’re having fun.",
+    "origin": "From Latin 'tempus fugit', meaning 'time flees', centuries old."
+  },
+  {
+    "idiom": "Turn a blind eye",
+    "meaning": "To ignore something intentionally.",
+    "example": "The teacher turned a blind eye to the students’ minor mistakes.",
+    "origin": "Early 19th century, from Admiral Nelson ignoring a signal by using his blind eye."
+  },
+  {
+    "idiom": "Two heads are better than one",
+    "meaning": "Two people can solve a problem better than one.",
+    "example": "Let’s work together—two heads are better than one.",
+    "origin": "17th century proverb, emphasizing collaboration and teamwork."
+  },
+  {
+    "idiom": "Up in the air",
+    "meaning": "Uncertain or undecided.",
+    "example": "Our vacation plans are still up in the air.",
+    "origin": "19th century, meaning literally suspended in the air, uncertain position."
+  },
+  {
+    "idiom": "Water under the bridge",
+    "meaning": "Past events that are no longer important or worrying.",
+    "example": "We had arguments before, but that’s water under the bridge now.",
+    "origin": "16th century proverb, comparing past troubles to water that has flowed away."
+  },
+  {
+    "idiom": "Wear your heart on your sleeve",
+    "meaning": "To openly show your emotions.",
+    "example": "She wears her heart on her sleeve, so you can always tell how she feels.",
+    "origin": "16th century, from jousting tournaments where knights wore tokens on their sleeves."
+  },
+  {
+    "idiom": "When pigs fly",
+    "meaning": "Something that will never happen.",
+    "example": "He’ll apologize? Yeah, when pigs fly.",
+    "origin": "19th century humorous phrase indicating impossibility."
+  },
+  {
+    "idiom": "You can’t judge a book by its cover",
+    "meaning": "Don’t judge something based on appearance alone.",
+    "example": "He seems unfriendly, but you can’t judge a book by its cover.",
+    "origin": "19th century proverb warning against superficial judgments."
+  },
+  {
+    "idiom": "Your guess is as good as mine",
+    "meaning": "I don’t know either.",
+    "example": "Who will win the game? Your guess is as good as mine.",
+    "origin": "19th century, meaning both parties have the same limited knowledge."
+  },
+  {
+    "idiom": "Keep your chin up",
+    "meaning": "Stay positive in difficult situations.",
+    "example": "Keep your chin up; things will get better soon.",
+    "origin": "19th century, referring to keeping your head raised proudly."
+  },
+  {
+    "idiom": "Knock on wood",
+    "meaning": "Said to prevent bad luck after mentioning something good.",
+    "example": "I haven’t been sick all year, knock on wood.",
+    "origin": "Ancient superstition, literally knocking on wood for protection or luck."
+  },
+  {
+    "idiom": "Let your hair down",
+    "meaning": "To relax and enjoy yourself.",
+    "example": "After exams, the students let their hair down at the party.",
+    "origin": "16th century, referring to women letting their hair down as a symbol of relaxation."
+  }
+]
