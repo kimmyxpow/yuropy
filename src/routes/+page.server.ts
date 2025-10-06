@@ -30,8 +30,16 @@ interface Daily {
 
 async function fetchRandom<T>(fetch: typeof window.fetch, url: string): Promise<T> {
 	const response = await fetch(url);
-	const data: T[] = await response.json();
-	return rand(data);
+	if (!response.ok) {
+		throw new Error(`Failed to fetch ${url} (${response.status})`);
+	}
+
+	try {
+		const data: T[] = await response.json();
+		return rand(data);
+	} catch (err) {
+		throw new Error(`Invalid JSON from ${url}: ${(err as Error).message}`);
+	}
 }
 
 export const load: PageServerLoad = async ({ fetch, cookies }) => {
@@ -51,7 +59,7 @@ export const load: PageServerLoad = async ({ fetch, cookies }) => {
 		const [word, idiom, fact] = await Promise.all([
 			fetchRandom<WordEntry>(fetch, '/collections/words.json'),
 			fetchRandom<IdiomEntry>(fetch, '/collections/idioms.json'),
-			fetchRandom<FactEntry>(fetch, '/collections/fatcs.json')
+			fetchRandom<FactEntry>(fetch, '/collections/facts.json')
 		]);
 
 		const newDaily: Daily = {
