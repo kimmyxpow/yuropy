@@ -1,27 +1,42 @@
 import { env } from '$env/dynamic/private';
-import crypto from 'crypto';
 
-const encoder = new TextEncoder();
-const keyData = encoder.encode(env.DAILY_SECRET);
-const hashBuffer = await crypto.subtle.digest('SHA-256', keyData);
-const KEY = new Uint8Array(hashBuffer);
+const SECRET_KEY = env.DAILY_SECRET;
 
-export const encrypt = (text: string): string => {
-	const iv = crypto.randomBytes(16);
-	const cipher = crypto.createCipheriv('aes-256-cbc', KEY, iv);
-	let encrypted = cipher.update(text, 'utf-8', 'base64');
-	encrypted += cipher.final('base64');
-	return `${iv.toString('base64')}:${encrypted}`;
-};
+async function getKey() {
+	const enc = new TextEncoder();
+	const keyMaterial = enc.encode(SECRET_KEY);
+	const hash = await crypto.subtle.digest('SHA-256', keyMaterial);
+	return crypto.subtle.importKey('raw', hash, { name: 'AES-CBC' }, false, ['encrypt', 'decrypt']);
+}
 
-export const decrypt = (data: string): string => {
-	const [ivBase64, encrypted] = data.split(':');
-	const iv = Buffer.from(ivBase64, 'base64');
-	const decipher = crypto.createDecipheriv('aes-256-cbc', KEY, iv);
-	let decrypted = decipher.update(encrypted, 'base64', 'utf-8');
-	decrypted += decipher.final('utf-8');
-	return decrypted;
-};
+export async function encrypt(text: string): Promise<string> {
+	const key = await getKey();
+	const iv = crypto.getRandomValues(new Uint8Array(16));
+	const enc = new TextEncoder();
+	const data = enc.encode(text);
+
+	const encrypted = await crypto.subtle.encrypt({ name: 'AES-CBC', iv }, key, data);
+
+	const ivBase64 = btoa(String.fromCharCode(...iv));
+	const encryptedBase64 = btoa(String.fromCharCode(...new Uint8Array(encrypted)));
+
+	return `${ivBase64}:${encryptedBase64}`;
+}
+
+export async function decrypt(data: string): Promise<string> {
+	const [ivBase64, encryptedBase64] = data.split(':');
+	if (!ivBase64 || !encryptedBase64) throw new Error('Invalid encrypted format');
+
+	const iv = Uint8Array.from(atob(ivBase64), (c) => c.charCodeAt(0));
+	const encrypted = Uint8Array.from(atob(encryptedBase64), (c) => c.charCodeAt(0));
+
+	const key = await getKey();
+
+	const decrypted = await crypto.subtle.decrypt({ name: 'AES-CBC', iv }, key, encrypted);
+
+	const dec = new TextDecoder();
+	return dec.decode(decrypted);
+}
 
 export const rand = <T>(arr: T[]): T => {
 	if (arr.length === 0) throw new Error('Array is empty');
