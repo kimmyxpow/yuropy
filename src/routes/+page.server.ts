@@ -1,4 +1,3 @@
-import { env } from '$env/dynamic/private';
 import { decrypt, encrypt, rand } from '$lib';
 import type { PageServerLoad } from './$types';
 
@@ -29,8 +28,8 @@ interface Daily {
 	fact: FactEntry;
 }
 
-async function fetchRandom<T>(url: string): Promise<T> {
-	const response = await fetch(env.APP_URL + url);
+async function fetchRandom<T>(fetch: typeof window.fetch, url: string): Promise<T> {
+	const response = await fetch(url);
 	if (!response.ok) {
 		throw new Error(`Failed to fetch ${url} (${response.status})`);
 	}
@@ -43,7 +42,7 @@ async function fetchRandom<T>(url: string): Promise<T> {
 	}
 }
 
-export const load: PageServerLoad = async ({ cookies }) => {
+export const load: PageServerLoad = async ({ fetch, cookies }) => {
 	const dailyCookie = cookies.get('daily');
 	let daily: Daily | null = null;
 
@@ -58,9 +57,9 @@ export const load: PageServerLoad = async ({ cookies }) => {
 	const today = new Date().getDate();
 	if (!daily || new Date(daily.date).getDate() !== today) {
 		const [word, idiom, fact] = await Promise.all([
-			fetchRandom<WordEntry>('/collections/words.json'),
-			fetchRandom<IdiomEntry>('/collections/idioms.json'),
-			fetchRandom<FactEntry>('/collections/facts.json')
+			fetchRandom<WordEntry>(fetch, '/collections/words.json'),
+			fetchRandom<IdiomEntry>(fetch, '/collections/idioms.json'),
+			fetchRandom<FactEntry>(fetch, '/collections/facts.json')
 		]);
 
 		const newDaily: Daily = {
