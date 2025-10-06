@@ -1,9 +1,10 @@
 import { env } from '$env/dynamic/private';
 import crypto from 'crypto';
 
-const SECRET_KEY = env.DAILY_SECRET;
-
-const KEY = crypto.createHash('sha256').update(SECRET_KEY).digest();
+const encoder = new TextEncoder();
+const keyData = encoder.encode(env.DAILY_SECRET);
+const hashBuffer = await crypto.subtle.digest('SHA-256', keyData);
+const KEY = new Uint8Array(hashBuffer);
 
 export const encrypt = (text: string): string => {
 	const iv = crypto.randomBytes(16);
