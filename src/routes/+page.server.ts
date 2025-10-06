@@ -40,7 +40,7 @@ export const load: PageServerLoad = async ({ fetch, cookies }) => {
 
 	if (dailyCookie) {
 		try {
-			daily = JSON.parse(decrypt(dailyCookie));
+			daily = JSON.parse(await decrypt(dailyCookie));
 		} catch {
 			daily = null;
 		}
@@ -61,7 +61,7 @@ export const load: PageServerLoad = async ({ fetch, cookies }) => {
 			fact: fact
 		};
 
-		const encrypted = encrypt(JSON.stringify(newDaily));
+		const encrypted = await encrypt(JSON.stringify(newDaily));
 
 		const tomorrow = new Date();
 		tomorrow.setDate(tomorrow.getDate() + 1);
